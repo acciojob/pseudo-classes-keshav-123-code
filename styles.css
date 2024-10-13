@@ -1,14 +1,16 @@
 /*  your css code here. If applicable */
-/*  your css code here. If applicable */
-#yellow{
-	background-color: yellow;
-	border: 1px solid green;
+.pseudo-class{
+	background-color: rgb(135, 206, 235)
 }
-#red{
-	background-color: red;
-	border: 1px solid black;
+.first-child{
+	color: white;
+	background-color: black;
 }
-#green{
-	background-color: green;
-	border: 1px solid yellow;
+.last-child{
+	color: red;
+}
+ul{
+	background-color: grey;
+	width: 50%;
+	padding: 10px;
 }
